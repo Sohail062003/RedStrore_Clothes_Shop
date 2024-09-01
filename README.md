@@ -21,8 +21,8 @@ __Technologies Used__:
 # Version Control: Git
 
 __How to Use__:
-1) Clone the repository: git clone <repository-url>
-2) Navigate to the project directory: cd <project-directory>
+1) Clone the repository: git clone < repository-url >
+2) Navigate to the project directory: cd < project-directory >
 3) Set up the database and import the provided SQL file.
 4) Configure the database connection in the backend.
 5) Run the project on a local or remote server.
